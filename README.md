@@ -2,6 +2,18 @@
 
 A cyberpunk-themed QR Code Generator built with Python and Textual.
 
+![TUI](img/screenshot.png)
+
+Retro-inspired interface with:
+
+- Neon colors
+- Dual-panel layout
+- QR preview area
+- File path display
+- One-click file/folder opening
+
+---
+
 ## Features
 
 - Generate QR codes from URLs or text
@@ -109,20 +121,6 @@ qrcodes/github.png
 - [Textual](https://github.com/Textualize/textual) — Terminal UI framework
 - [qrcode](https://github.com/lincolnloop/python-qrcode) — QR code generation
 - Pillow — Image processing
-
----
-
-## Screenshot
-
-![TUI](img/screenshot.png)
-
-Cyberpunk-inspired interface with:
-
-- Neon colors
-- Dual-panel layout
-- QR preview area
-- File path display
-- One-click file/folder opening
 
 ---
 
