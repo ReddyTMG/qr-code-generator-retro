@@ -1,4 +1,4 @@
-# qr-generator
+# QR-Code-Generator-Retro
 
 A cyberpunk-themed QR Code Generator built with Python and Textual.
 
